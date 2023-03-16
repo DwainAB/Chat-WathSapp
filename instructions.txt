@@ -1,0 +1,24 @@
+L'objectif
+
+- permettre à l'utilisateur de rentrer un text dans le champ
+- ajouter son message dans la liste des messages
+-- quand il appuie sur la touche "entrer" du clavier
+-- et qauand il appuie sur le bouton "envoyer" avec l'îcone
+- vider le champ une fois le message envoyé
+
+BONUS
+1. faire en sorte que le message soit animé quand il apparait
+2. faire en sorte que même quand il y a beaucoup de messages, le scroll soit toujorus vers le bas de la conversation
+3. faire apparaitre et disparaitre le ul dans l'élément avec la class ".dropdown" quand on clic sur le bouton associé à celui-ci
+
+
+Les contraintes
+- Ne pas toucher au code HTML
+- Trouver l'événément qui permet de s'avoir quand un formulaire est soumis
+- Faire en sorte que le formulaire ne recharge pas la page quand il est soumis
+- Utiliser ce qu'on a vu en cours
+
+Ce que vous pouvez faire
+- Modifier le CSS si besoin (mais ce n'est pas nécessaire)
+- Utiliser la documentation
+- Utiliser TOUT ce qu'on a vu en cours
